@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+This application is an interactive coffee shop application. Administrators will be able to check and adjust inventory levels, price and edit items, mark item availability, and change the menu. Users will be able to view the menu and save their favorite drink orders to their personal profile. Business owners can increase and personalize customer interaction within the digital space.  
+
 ### Features
-Include Features here
+
+Administrator Login
+User Login
+Personal Profile for the saved favorites and relevant customer information to be stored.
+Inventory Tracker keeps business and customers up-to-date and makes business decisions faster.
+
 ### Technologies
-Include Technologies here
+
+MySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+Connecting Angular/JavaScript front-end to a Springboot/Java back-end
+Connecting Angular/JavaScript to MySQL in MVC style application
+Implementing e-commerce functionality into design
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/Lbu7o265/coffee-shop-online
