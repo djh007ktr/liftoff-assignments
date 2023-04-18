@@ -12,20 +12,20 @@ This application is an interactive coffee shop application. Administrators will 
 
 ### Features
 
-Administrator Login
-User Login
-Personal Profile for the saved favorites and relevant customer information to be stored.
-Inventory Tracker keeps business and customers up-to-date and makes business decisions faster.
+* Administrator Login
+* User Login
+* Personal Profile for the saved favorites and relevant customer information to be stored.
+* Inventory Tracker keeps business and customers up-to-date and makes business decisions faster.
 
 ### Technologies
 
-MySQL
+* MySQL
 
 ### What I'll Have to Learn
 
-Connecting Angular/JavaScript front-end to a Springboot/Java back-end
-Connecting Angular/JavaScript to MySQL in MVC style application
-Implementing e-commerce functionality into design
+* Connecting Angular/JavaScript front-end to a Springboot/Java back-end
+* Connecting Angular/JavaScript to MySQL in MVC style application
+* Implementing e-commerce functionality into design
 
 ### Project Tracker
 
