@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-https://github.com/ShrivastavaShweta/coffee-shop.git
+[https://github.com/ShrivastavaShweta/coffee-shop.git](https://github.com/mrjermarco/shop-coffee.git)
